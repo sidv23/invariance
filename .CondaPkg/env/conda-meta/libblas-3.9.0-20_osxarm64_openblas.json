@@ -1,0 +1,57 @@
+{
+    "arch": "arm64",
+    "build": "20_osxarm64_openblas",
+    "build_number": 20,
+    "build_string": "20_osxarm64_openblas",
+    "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+    "constrains": [
+        "liblapack 3.9.0 20_osxarm64_openblas",
+        "liblapacke 3.9.0 20_osxarm64_openblas",
+        "libcblas 3.9.0 20_osxarm64_openblas",
+        "blas * openblas"
+    ],
+    "depends": [
+        "libopenblas >=0.3.25,<0.3.26.0a0",
+        "libopenblas >=0.3.25,<1.0a0"
+    ],
+    "extracted_package_dir": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libblas-3.9.0-20_osxarm64_openblas",
+    "files": [
+        "lib/libblas.3.dylib",
+        "lib/libblas.dylib"
+    ],
+    "fn": "libblas-3.9.0-20_osxarm64_openblas.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libblas-3.9.0-20_osxarm64_openblas",
+        "type": 1
+    },
+    "md5": "49bc8dec26663241ee064b2d7116ec2d",
+    "name": "libblas",
+    "package_tarball_full_path": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libblas-3.9.0-20_osxarm64_openblas.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libblas.3.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "fdfcb8e25338e3e765f88d0743bdc0cedeaf96d27d2a7d79f3636056eb598c0c",
+                "size_in_bytes": 10419552
+            },
+            {
+                "_path": "lib/libblas.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "fdfcb8e25338e3e765f88d0743bdc0cedeaf96d27d2a7d79f3636056eb598c0c",
+                "size_in_bytes": 10419552
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "",
+    "sha256": "5b5b8394352c8ca06b15dcc9319d0af3e9f1dc03fc0a6f6deef05d664d6b763a",
+    "size": 14722,
+    "subdir": "osx-arm64",
+    "timestamp": 1700568881837,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libblas-3.9.0-20_osxarm64_openblas.conda",
+    "version": "3.9.0"
+}

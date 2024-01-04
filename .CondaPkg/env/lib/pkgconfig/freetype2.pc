@@ -1,0 +1,14 @@
+prefix=/Users/svishwanath/github/code/invariance-code/.CondaPkg/env
+exec_prefix=/Users/svishwanath/github/code/invariance-code/.CondaPkg/env
+libdir=/Users/svishwanath/github/code/invariance-code/.CondaPkg/env/lib
+includedir=/Users/svishwanath/github/code/invariance-code/.CondaPkg/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/svishwanath/github/code/invariance-code/.CondaPkg/env/lib -lfreetype
+Libs.private: -lz -L/Users/svishwanath/github/code/invariance-code/.CondaPkg/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

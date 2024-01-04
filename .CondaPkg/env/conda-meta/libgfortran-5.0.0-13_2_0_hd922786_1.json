@@ -1,0 +1,36 @@
+{
+    "arch": "arm64",
+    "build": "13_2_0_hd922786_1",
+    "build_number": 1,
+    "build_string": "13_2_0_hd922786_1",
+    "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+    "constrains": [],
+    "depends": [
+        "libgfortran5 13.2.0 hf226fd6_1"
+    ],
+    "extracted_package_dir": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libgfortran-5.0.0-13_2_0_hd922786_1",
+    "files": [],
+    "fn": "libgfortran-5.0.0-13_2_0_hd922786_1.conda",
+    "license": "GPL-3.0-only WITH GCC-exception-3.1",
+    "license_family": "GPL",
+    "link": {
+        "source": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libgfortran-5.0.0-13_2_0_hd922786_1",
+        "type": 1
+    },
+    "md5": "1ad37a5c60c250bb2b4a9f75563e181c",
+    "name": "libgfortran",
+    "package_tarball_full_path": "/Users/svishwanath/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/libgfortran-5.0.0-13_2_0_hd922786_1.tar.bz2",
+    "paths_data": {
+        "paths": [],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "",
+    "sha256": "bc8750e7893e693fa380bf2f342d4a5ce44995467cbdf72e56a00e5106b4892d",
+    "size": 110095,
+    "subdir": "osx-arm64",
+    "timestamp": 1694172198016,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libgfortran-5.0.0-13_2_0_hd922786_1.conda",
+    "version": "5.0.0"
+}
